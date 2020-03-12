@@ -76,7 +76,7 @@ dependencies {
     //noinspection GradleDynamicVersion
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation 'com.facebook.react:react-native:+'  // From node_modules
-    implementation(name: 'A26Library-debug-64', ext: 'aar')
+    implementation(name: 'A26Library-debug', ext: 'aar')
     implementation "com.google.zxing:core:3.3.0"
 }
 
