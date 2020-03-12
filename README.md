@@ -11,7 +11,7 @@ import CiontekPrinter from 'react-native-ciontek-printer';
 // TODO: What to do with the module?
 CiontekPrinter.checkPrinterStatus(status => {
   if (status == 0) {
-    this.isCiontekAvailable = true;
+    //printer connected
   }
 })
 ```
