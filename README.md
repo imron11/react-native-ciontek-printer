@@ -1,4 +1,4 @@
-# react-native-ciontek-printer
+# react-native-ciontek-printer 64 AAR
 
 ## Getting started
 
