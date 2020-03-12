@@ -2,7 +2,7 @@
 
 ## Getting started
 
-`$ npm install react-native-ciontek-printer --save`
+`$ npm install github:imron11/react-native-ciontek-printer --save`
 
 ### Mostly automatic installation
 
